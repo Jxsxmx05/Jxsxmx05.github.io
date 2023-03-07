@@ -1,13 +1,17 @@
 body
 {
-background-image: url("https://images.alphacoders.com/546/546824.jpg");
-background-repeat: no-repeat;
 text-align: center;
 }
 h1
 {
 letter-spacing: 0,1em;
-color: rgb(252,252,252);
+font-size: 55px;
+color:white;
+text-align: center;
+border-radius: 5px;
+border-top: 5px white ridge;
+border-bottom: 5px white ridge;
+text-shadow: 2px 2px 2px blue;
 }
 nav
 {
@@ -15,15 +19,30 @@ color: white;
 }
 header
 {
-background-image: url("https://www.surforma.com/media/filer_public_thumbnails/filer_public/4d/fa/4dfa47e9-b6a5-46c4-b933-59b9ce2ae0f9/l3546.jpg__1200x630_q95_crop_subsampling-2_upscale.jpg");
+background-image: url("https://w0.peakpx.com/wallpaper/313/749/HD-wallpaper-green-tennis-ball-on-ground.jpg");
 }
 h2
 {
+border-radius: 5px
+border-top: 5px white ridge;
+border-bottom: 5px white ridge;
 letter-spacing: 0,1em;
-color: rgb(200,200,200);
+color:white;
+text-shadow: 2px 2px 2px blue;
 }
 h3
 {
 letter-spacing: 0,1em;
-color: rgb(200,200,200);
+color:blue;
+text-shadow: 2px 2px 2px white;
+}
+
+a
+{
+color: blue;
+}
+a:hover
+{
+color: white;
+font-size: 15px;
 }
