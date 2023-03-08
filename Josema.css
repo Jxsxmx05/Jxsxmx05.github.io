@@ -1,6 +1,7 @@
 body
 {
 text-align: center;
+background-color: rgb(23, 32, 42);
 }
 h1
 {
@@ -19,7 +20,7 @@ color: white;
 }
 header
 {
-background-image: url("https://w0.peakpx.com/wallpaper/313/749/HD-wallpaper-green-tennis-ball-on-ground.jpg");
+background-color: rgb(86, 101, 115);
 }
 h2
 {
